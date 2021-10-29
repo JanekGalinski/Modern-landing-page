@@ -1,0 +1,23 @@
+.container-nav {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-logo {
+    display: flex;
+    color: #263396;
+}
+
+.nav-icons {
+    display: flex;
+    justify-content: space-between;
+    width: 30%;
+    color: #1C2085;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.nav-icon {
+    cursor: pointer;
+}
